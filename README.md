@@ -5,8 +5,7 @@ Use two 45 degree left/right tilt switches to draw on a simple Nokia 5110/330 sc
 
 Status:
 
-Project framework configure
-
+Project framework configured
 Code, and Wiring TODO
 
 
